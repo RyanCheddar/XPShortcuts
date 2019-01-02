@@ -1,4 +1,4 @@
 {
 "ver":"1",
-"URL":"https://www.icloud.com/shortcuts/a619bdcce3ae4cddb597fb023925b266"
+"URL":"https://www.icloud.com/shortcuts/ad62a10e9cf44647a93bb289791c64e1"
 }

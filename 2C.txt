@@ -1,1 +1,5 @@
-RoutinePub is now directly included in the shortcut.
+The shortcut now detects submission errors and displays failed submissions in an alert. 
+
+The shortcut will not run without an internet connection.
+
+Fixed some bugs.

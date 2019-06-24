@@ -1,6 +1,16 @@
-r/SwitchUpdates
+r/SwitchUpdates message
+
+#Introduction
 
 When r/NintendoSwitch started getting more circlejerk-y and r/tomorrow started getting more and more popular due to the unnecessary and stupid posts, r/SwitchUpdates was made so people who only cares about news can join it and get all the benefits of r/NintendoSwitch without the content of r/tomorrow.
 
 The sub’s name was mentioned a few times in r/tomorrow and r/NintendoSwitch, which got it about 200 members. However, the quality mods at r/NintendoSwitch and r/tomorrow has banned all mentions of r/SwitchUpdates, which is why you’re receiving this message in PM form instead of comment form.
+
+#About r/SwitchUpdates
+
+r/SwitchUpdates is a subreddit that is focused on news about Nintendo Switch. You can expect to see posts talk about topics ranging from software updates (haha lol switch updates) to game releases and announcements. 
+
+The subreddit is mostly ran by a bot that fetches flaired posts from r/NintendoSwitch and X-posts them to r/SwitchUpdates. The bot isn’t perfect, but that’s why we have moderators who actively check for any posts that aren’t high-quality, and removes them.
+
+(If you see any posts that you don’t think is high-quality, please report them)
 
